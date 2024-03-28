@@ -3,7 +3,9 @@
 <p>Currently working on a few side projects that I will be show casing here, tag long with me on this journey.</p>
 <br/>
 
+<a href="https://www.linkedin.com/in/justjordant/">LinkenIn</a>
 <a href="https://github.com/JustJordanT">Github</a>
+<a href="https://twitter.com/Just_Jordan_T">Twitter - (X)</a>
 
 
 <h2>Projects</h2>
